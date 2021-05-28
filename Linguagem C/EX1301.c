@@ -17,7 +17,6 @@ Um vento, e eu de todo exilada.\nUm vento, e eu desfeita,\ncalada.\nUm vento e, 
     alpha = blank = punct = 0;
 
     indice = 0;
-
     while (frase[indice]){
 
         if(isalpha(frase[indice]))
