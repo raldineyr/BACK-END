@@ -1,7 +1,6 @@
 package POO05;
 
 // Método Construtor
-
 public class Principal {
 	
 	public static void main (String[] args) {
