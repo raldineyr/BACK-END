@@ -34,5 +34,4 @@ public class Fundamento04 {
 		// Resumo a inferência nos possibilita criar uma variável usando a palavra (var), porém não o possibilita modificar o tipo da variável;
 	
 	}
-	
 }
