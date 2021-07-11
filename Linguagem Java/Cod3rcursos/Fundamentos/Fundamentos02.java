@@ -8,6 +8,7 @@ public class Fundamento02 {
 	System.out.printf("O valor da area é: %.4f\n",raio*raio*pi);
 	double area = pi * raio * raio;
 	System.out.println("A área é: " + area+" m2.");
+		
 	}
 
 }
