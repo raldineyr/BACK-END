@@ -1,5 +1,4 @@
 package Fundamentos;
-// Funções a partir do ponto.
 public class Fundamento06 {
 	public static void main(String[] args){
 		
@@ -22,5 +21,4 @@ public class Fundamento06 {
 		// Tipos primitivos não tem o operador ponto ".".
 		
 	}
-
 }
