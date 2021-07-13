@@ -1,8 +1,8 @@
 package Fundamentos;
 public class Fundamento10 {
 	public static void main (String[] args){
-		
 		//String s = texto;
+		
 		String s = new String("Texto");
 		s.toUpperCase();
 		
