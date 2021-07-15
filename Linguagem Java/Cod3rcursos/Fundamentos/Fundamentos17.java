@@ -1,5 +1,7 @@
 package Fundamentos;
+
 // Exercício 17 - Desafio Aritímetico
+
 public class Fundamento17 {	
 	public static void main(String[] args) { 
 	// Primeira expressão
