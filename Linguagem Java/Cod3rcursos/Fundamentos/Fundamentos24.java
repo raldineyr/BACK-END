@@ -3,7 +3,7 @@ package Fundamentos;
 
 import java.util.Scanner;
 
-public class Fundamento24 {
+public class Fundamentos24 {
 	public static void main(String[] args){
 		
 		System.out.println("2" == "2");
