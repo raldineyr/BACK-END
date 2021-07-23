@@ -1,1 +1,1 @@
-EXERCÍCIOS DOS ESTUDOS DE LÓGICA DE PROGRAMAÇÃO E SINTAXES!
+Exercícios dos cursos e livros de linguagens de programação.
