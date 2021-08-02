@@ -6,7 +6,6 @@ public class Principal {
 	public static void main(String[] args) {
 		
 		Compra compra1 = new Compra();
-		
 		compra1.cliente = "João dos veneno";
 		
 		compra1.itens.add(new Item("Caneta", 20, 7.45));
