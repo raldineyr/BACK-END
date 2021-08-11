@@ -1,4 +1,4 @@
-package POO.Polimorfismo;
+package POO.Polimorfismo.Polimorfismo01;
 	//Fundamentos polimorfismo
 public class Pessoa {
 
