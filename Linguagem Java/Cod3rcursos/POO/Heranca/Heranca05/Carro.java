@@ -2,8 +2,8 @@ package POO.Heranca05;
 // Desafio construtor
 
 public class Carro {
-	
 	final int VELOCIDADE_MAXIMA;
+	
 	int velocidadeAtual;
 	int delta = 5;
 	
