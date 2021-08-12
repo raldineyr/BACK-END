@@ -1,0 +1,7 @@
+package POO.Interface.Interface01;
+
+public interface Esportivo {
+	
+	void ligarTurbo();
+	void desligarTurbo();
+}
