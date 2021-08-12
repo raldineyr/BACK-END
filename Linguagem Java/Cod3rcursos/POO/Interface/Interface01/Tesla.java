@@ -1,4 +1,4 @@
-package POO.Interface01;
+package POO.Interface.Interface01;
 
 public class Tesla extends Carro implements Esportivo, Luxo{
 	
