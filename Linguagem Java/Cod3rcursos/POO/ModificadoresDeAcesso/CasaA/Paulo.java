@@ -2,7 +2,6 @@ package POO.ModificadoresDeAcesso.CasaA;
 // Niveis de visibilidade
 
 public class Paulo {
-	
 	Ana esposa = new Ana();
 
 	void testeAcesso() {
