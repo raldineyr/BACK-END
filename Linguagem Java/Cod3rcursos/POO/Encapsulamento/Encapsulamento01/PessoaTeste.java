@@ -1,4 +1,4 @@
-package POO.Encapsulamento01;
+package POO.Encapsulamento.Encapsulamento01;
 //Fundamentos getters and setters
 
 public class PessoaTeste {
