@@ -1,4 +1,4 @@
-package POO.Encapsulamento02;
+package POO.Encapsulamento.Encapsulamento02;
 
 	// Fundamentos getters and setters
 
