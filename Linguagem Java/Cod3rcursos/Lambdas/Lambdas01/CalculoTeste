@@ -1,0 +1,22 @@
+package Lambdas.Lambdas01;
+//Fundamentos de função Lambda.
+
+public class CalculoTeste {
+	public static void main (String[] args){
+		
+		Calculo calculo = new Somar();
+		System.out.println(calculo.executar( 2, 3));
+		
+		calculo = new Multiplicar();
+		System.out.println(calculo.executar( 2, 3));
+		
+		calculo = new Dividir();
+		System.out.println(calculo.executar(2 , 3));	
+	
+		calculo = new Subtrair();
+		System.out.println(calculo.executar(2, 3));
+	
+		calculo = new Potencia();
+		System.out.println(calculo.executar(2, 3));
+	}
+}
