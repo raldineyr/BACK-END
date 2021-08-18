@@ -1,4 +1,4 @@
-package lambdas.lambdas05;
+package Lambdas.Lambdas05;
 import java.util.function.Predicate;
 // Funcional interface: Predicate
 
