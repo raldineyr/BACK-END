@@ -1,4 +1,4 @@
-package lambdas.lambdas08;
+package Lambdas.Lambdas08;
 import java.util.function.Predicate;
 // Predicate Functions 
 
