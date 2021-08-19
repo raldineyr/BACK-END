@@ -1,4 +1,4 @@
-package lambdas.lambdas03;
+package Lambdas.Lambdas03;
 import java.util.function.BinaryOperator;
 //interfaces funcionais BinaryOperator
 
