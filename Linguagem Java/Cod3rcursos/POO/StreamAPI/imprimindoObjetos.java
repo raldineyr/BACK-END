@@ -1,4 +1,4 @@
-package StreamAPI.StreamAPI01;
+package StreamAPI;
 
 import java.util.Arrays;
 import java.util.Iterator;
