@@ -1,4 +1,4 @@
-package TratamentoDeExcecao01;
+package TratamentoDeErros.TratamentoDeExcecao01;
 
 public class Aluno {
 	
