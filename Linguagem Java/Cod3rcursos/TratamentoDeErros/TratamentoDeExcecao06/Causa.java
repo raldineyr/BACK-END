@@ -1,4 +1,4 @@
-package TratamentoDeErros.Excecao;
+package TratamentoDeErros.TratamentoDeExcecao06;
 
 public class Causa {
 	
@@ -32,5 +32,4 @@ public class Causa {
 		}
 		System.out.println(aluno.nome);
 	}
-
 }
