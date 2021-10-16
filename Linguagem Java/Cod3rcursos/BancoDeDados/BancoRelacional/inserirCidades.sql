@@ -36,4 +36,4 @@ VALUES(
     (select id from estados where sigla = 'CE')
 )
 
-select * from cidades
+
