@@ -19,4 +19,3 @@ VALUES
         (nome, cidade_id)
     VALUES
         ('Armando Golpes', 5); -- Relacionamento: Um para um.
-
