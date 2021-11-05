@@ -1,4 +1,4 @@
-package br.com.raldineyr.JPA.infra;
+package JPA.infra;
 
 import java.util.List;
 
