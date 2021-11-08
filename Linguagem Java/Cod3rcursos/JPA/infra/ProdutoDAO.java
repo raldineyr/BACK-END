@@ -1,6 +1,6 @@
 package JPA.infra;
 
-import br.com.raldineyr.JPA.modelo.Produto;
+import JPA.modelo.Produto;
 
 public class ProdutoDAO extends DAO <Produto> {
 	
