@@ -8,7 +8,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import javax.persistence.TypedQuery;
 
-import br.com.raldineyr.JPA.modelo.Usuario;
+import JPA.modelo.Usuario;
 
 public class ObterUsuarios {
 	public static void main(String[] args) {
