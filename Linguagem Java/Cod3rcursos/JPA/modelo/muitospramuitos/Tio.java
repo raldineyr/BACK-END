@@ -1,4 +1,4 @@
-package br.com.raldineyr.JPA.modelo.muitospramuitos;
+package JPA.modelo.muitospramuitos;
 
 import java.util.ArrayList;
 import java.util.List;
