@@ -53,5 +53,4 @@ public class Tio {
 	public void setSobrinhos(List<Sobrinho> sobrinhos) {
 		this.sobrinhos = sobrinhos;
 	}
-
 }
