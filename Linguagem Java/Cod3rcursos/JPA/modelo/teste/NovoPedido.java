@@ -10,7 +10,7 @@ public class NovoPedido {
 	public static void main(String[] args) {
 		
 		
-		DAO <Object> dao = new DAO<>(null);
+		DAO <Object> dao = new DAO<>();
 		
 		Pedido  pedido = new Pedido();
 		Produto produto = new Produto("Curso SQL e NoSQL", 189.90);
