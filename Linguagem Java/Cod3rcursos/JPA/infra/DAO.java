@@ -20,6 +20,10 @@ public class DAO<E> {
 
 		}
 	}
+	
+	public DAO() {
+    		this(null);
+ 	}
 
 	public DAO(Class<E> classe) {
 
