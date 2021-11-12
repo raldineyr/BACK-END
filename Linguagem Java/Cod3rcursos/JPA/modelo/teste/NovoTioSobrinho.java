@@ -26,7 +26,7 @@ public class NovoTioSobrinho {
 		tio2.getSobrinhos().add(sobrinho2);
 		sobrinho2.getTios().add(tio2);
 		
-		DAO<Object> dao = new DAO<>(null);
+		DAO<Object> dao = new DAO<>();
 		dao.abrirTransacao()
 		.incluir(tia1)
 		.incluir(tio2)
