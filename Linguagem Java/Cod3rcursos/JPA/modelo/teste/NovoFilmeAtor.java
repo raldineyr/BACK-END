@@ -24,6 +24,6 @@ public class NovoFilmeAtor {
 		filmeB.adicionarAtor(atorA);
 		
 		DAO <Filme> dao = new DAO<Filme>();
-		dao.incluir(filmeB);
+		dao.forcarInclusao(filmeB);
 	}
 }
