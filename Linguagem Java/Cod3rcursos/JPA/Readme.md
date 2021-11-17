@@ -1,6 +1,3 @@
-
-#persistence.xml
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
@@ -12,16 +9,31 @@
 	<persistence-unit name="coder-cursos-jpa"
 		transaction-type="RESOURCE_LOCAL">
 		
+		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+		
+		<mapping-file>META-INF/consultas.xml</mapping-file>
+		
+		<class>JPA.modelo.basico.Usuario</class>
+		<class>JPA.modelo.basico.Produto</class>
+		<class>JPA.modelo.umpraum.Assento</class>
+		<class>JPA.modelo.umpraum.Cliente</class>
+		<class>JPA.modelo.umpramuitos.Pedido</class>
+		<class>JPA.modelo.umpramuitos.ItemPedido</class>
+		<class>JPA.modelo.muitospramuitos.Tio</class>
+		<class>JPA.modelo.muitospramuitos.Sobrinho</class>
+		<class>JPA.modelo.muitospramuitos.Filme</class>
+		<class>JPA.modelo.muitospramuitos.Ator</class>
+		
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/coder_cursos_jpa?useSSL=false&amp;serverTimezone=UTC" />
 
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.user" value="root" />
-			<property name="javax.persistence.jdbc.password" value="INFORMAR-SENHA" />
+			<property name="javax.persistence.jdbc.password" value="password" />
 
 			<property name="hibernate.hbm2ddl.auto" value="update" />
 
-			<!-- https://docs.jboss.org/hibernate/orm/5.4/javadocs/org/hibernate/dialect/package-summary.html -->
+			
 			<property name="hibernate.dialect"
 				value="org.hibernate.dialect.MySQL8Dialect" />
 				
